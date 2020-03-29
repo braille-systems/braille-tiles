@@ -27,5 +27,5 @@ study Braille with this cards and smartphone or tablet device.
 
 You may also like to look at my other studies in accessibility:
  
-[github.com/zuevval/braille](https://github.com/zuevval/braille) - an interactive device for studying Braille alphabet <br>
-[github.com/zuevval/braille3parts](https://github.com/zuevval/braille3parts) - a mechanical refreshable Braille display
+[github.com/braille-systems/braille-trainer](https://github.com/braille-systems/braille-trainer) - an interactive device for studying Braille alphabet <br>
+[github.com/braille-systems/braille-display-cad](https://github.com/braille-systems/braille-display-cad) - a mechanical refreshable Braille display
